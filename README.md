@@ -1,9 +1,73 @@
-**Меню**
-
-- [билет1](#билет-1)
-- [билет2](#билет-2)
-- [билет3](#билет-3)
-- [билет4](#билет-4)
+<table>
+    <caption>Таблица - Меню</caption>
+    <thead>
+        <tr>
+            <td></td>
+            <td>Билет 1</td>
+            <td>Билет 2</td>
+            <td>Билет 3</td>
+            <td>Билет 4</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Условие</td>
+            <td><a href="#билет-1">условие</a></td>
+            <td><a href="#билет-2">условие</a></td>
+            <td><a href="#билет-3">условие</a></td>
+            <td><a href="#билет-4">условие</a></td>
+        </tr>
+        <tr>
+            <td>Задание 1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 2</td>
+            <td><a href="card1_task2.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 3</td>
+            <td><a href="card1_task3.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 4</td>
+            <td><a href="card1_task4.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 5</td>
+            <td><a href="card1_task5.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 6</td>
+            <td><a href="card1_task6.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Задание 7</td>
+            <td><a href="card1_task7.sql">SQL</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+<table>
 
 ## Билет 1
 
