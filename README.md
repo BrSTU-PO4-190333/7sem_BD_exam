@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>Задание 1</td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk01_vrs00.png">PNG</a></td>
             <td></td>
             <td></td>
             <td></td>
