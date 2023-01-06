@@ -26,42 +26,42 @@
         </tr>
         <tr>
             <td>Задание 2</td>
-            <td><a href="card1_task2.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk02_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Задание 3</td>
-            <td><a href="card1_task3.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk03_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Задание 4</td>
-            <td><a href="card1_task4.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk04_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Задание 5</td>
-            <td><a href="card1_task5.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk05_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Задание 6</td>
-            <td><a href="card1_task6.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk06_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Задание 7</td>
-            <td><a href="card1_task7.sql">SQL</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk07_vrs00.sql">SQL</a></td>
             <td></td>
             <td></td>
             <td></td>
