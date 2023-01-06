@@ -199,3 +199,29 @@
 
 7. Написать запрос, выводящий сведения обо всех скакунах,
 которые принимали участие точно в тех же скачках, что и скакун «`****`».
+
+## Список использованных источников
+1.
+    SQL Server Downloads | Microsoft
+    [Электронный ресурс].
+    Режим доступа:
+    https://www.microsoft.com/en-us/sql-server/sql-server-downloads.
+    Дата доступа: 05.01.2023.
+1.
+    Скачивание SQL Server Management Studio (SSMS) - SQL Server Management Studio (SSMS) | Microsoft Learn
+    [Электронный ресурс].
+    Режим доступа:
+    https://learn.microsoft.com/ru-RU/sql/ssms/download-sql-server-management-studio-ssms?azure-portal=true&view=sql-server-ver16.
+    Дата доступа: 05.01.2023.
+1.
+    Уроки MS SQL Server. Создание таблиц - YouTube
+    [Электронный ресурс].
+    Режим доступа:
+    https://www.youtube.com/watch?v=qndDTydhD2w.
+    Дата доступа: 05.01.2023.
+1.
+    Уроки MS SQL Server. Отношения между таблицами - YouTube
+    [Электронный ресурс].
+    Режим доступа:
+    https://www.youtube.com/watch?v=KHbPWLgc_80.
+    Дата доступа: 05.01.2023.
