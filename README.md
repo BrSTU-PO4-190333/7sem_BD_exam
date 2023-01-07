@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td>Задание 1</td>
-            <td><a href="BdExam.PO4.190333-crd01_tsk01_vrs00.png">PNG</a></td>
+            <td><a href="BdExam.PO4.190333-crd01_tsk01_vrs00.md">MD</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk01_vrs00.md">MD</a></td>
             <td></td>
             <td></td>
