@@ -30,7 +30,7 @@
             <td>Задание 2</td>
             <td><a href="BdExam.PO4.190333-crd01_tsk02_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk02_vrs00.sql">SQL</a></td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd03_tsk02_vrs00.sql">SQL</a></td>
             <td></td>
         </tr>
         <tr>
