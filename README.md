@@ -31,7 +31,7 @@
             <td><a href="BdExam.PO4.190333-crd01_tsk02_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk02_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd03_tsk02_vrs00.sql">SQL</a></td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd04_tsk02_vrs00.sql">SQL</a></td>
         </tr>
         <tr>
             <td>Задание 3</td>
