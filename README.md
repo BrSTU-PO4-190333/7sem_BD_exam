@@ -51,7 +51,7 @@
             <td>Задание 5</td>
             <td><a href="BdExam.PO4.190333-crd01_tsk05_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk05_vrs00.sql">SQL</a></td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd03_tsk05_vrs00.sql">SQL</a></td>
             <td></td>
         </tr>
         <tr>
