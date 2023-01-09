@@ -24,7 +24,7 @@
             <td><a href="BdExam.PO4.190333-crd01_tsk01_vrs00.md">MD</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk01_vrs00.md">MD</a></td>
             <td><a href="BdExam.PO4.190333-crd03_tsk01_vrs00.md">MD</a></td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd04_tsk01_vrs00.md">MD</a></td>
         </tr>
         <tr>
             <td>Задание 2</td>
