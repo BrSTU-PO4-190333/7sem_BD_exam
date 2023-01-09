@@ -52,7 +52,7 @@
             <td><a href="BdExam.PO4.190333-crd01_tsk05_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd02_tsk05_vrs00.sql">SQL</a></td>
             <td><a href="BdExam.PO4.190333-crd03_tsk05_vrs00.sql">SQL</a></td>
-            <td></td>
+            <td><a href="BdExam.PO4.190333-crd04_tsk05_vrs00.sql">SQL</a></td>
         </tr>
         <tr>
             <td>Задание 6</td>
